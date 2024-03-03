@@ -9,9 +9,6 @@ Original file is located at
 
 import streamlit as st
 import os
-!pip install pytube
-!pip install moviepy
-!pip install youtube-search-python
 from moviepy.editor import *
 from pytube import YouTube
 from youtubesearchpython import VideosSearch
