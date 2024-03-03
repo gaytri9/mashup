@@ -7,14 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1XH_4zt0wtEyiaITBrDfBlJobJDlu4w2u
 """
 
-!pip install streamlit
 import streamlit as st
 import os
 !pip install pytube
 !pip install moviepy
+!pip install youtube-search-python
 from moviepy.editor import *
 from pytube import YouTube
-!pip install youtube-search-python
 from youtubesearchpython import VideosSearch
 from email.message import EmailMessage
 from moviepy.editor import *
