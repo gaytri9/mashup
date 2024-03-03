@@ -38,12 +38,11 @@ streamlit run app.py
 3. Once the mashup is created successfully, a "Download Mashup" button will appear. Click on it to download the mashup audio file.
 
 ## Example
-![Screenshot 2024-03-03 204236](https://github.com/gaytri9/mashup/assets/139551519/aff559c0-f472-49e2-86b0-cf72528384ef)
+![image](https://github.com/gaytri9/mashup/assets/139551519/886f2824-3a10-41c1-ae54-c56ae95d0fd9)
 
 
 ### Result :
-
-https://github.com/ThatSpaceCowboy/Mashup-Maker/assets/41112158/35f62805-f822-4852-a7b7-44c0baa8be59
+After 
 
 ## License
 
