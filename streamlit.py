@@ -13,7 +13,6 @@ from pytube import YouTube
 from youtubesearchpython import VideosSearch
 from email.message import EmailMessage
 from moviepy.editor import *
-import pytube
 
 OUTPUT_PATH = "static/mashup/"
 GMAIL_USERNAME = "your.gmail@gmail.com"
