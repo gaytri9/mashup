@@ -8,7 +8,7 @@ Project is now availabe at [https://mashup-maker.streamlit.app](https://mashup-v
 1. Clone the repository:
 
 ```
-git clone https://github.com/ThatSpaceCowboy/Mashup-Maker.git
+git clone [https://github.com/gaytri9/mashup].git
 ```
 
 2. Navigate to the project directory:
