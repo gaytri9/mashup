@@ -9,8 +9,15 @@ Original file is located at
 
 import streamlit as st
 import os
-from email.message import EmailMessage
+pip install pytube
+pip install moviepy
 from moviepy.editor import *
+from pytube import YouTube
+pip install youtube-search-python
+from youtubesearchpython import VideosSearch
+from email.message import EmailMessage
+import pytube
+
 
 OUTPUT_PATH = "static/mashup/"
 GMAIL_USERNAME = "your.gmail@gmail.com"
