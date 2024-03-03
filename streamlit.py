@@ -9,7 +9,6 @@ Original file is located at
 
 import streamlit as st
 import os
-from youtubesearchpython import VideosSearch
 from email.message import EmailMessage
 from moviepy.editor import *
 
