@@ -9,6 +9,7 @@ Original file is located at
 
 import streamlit as st
 import os
+pip install --upgrade pip
 pip install pytube
 pip install moviepy
 from moviepy.editor import *
